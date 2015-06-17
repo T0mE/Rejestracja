@@ -16,5 +16,11 @@ namespace rejestracja_wizyt
         {
             InitializeComponent();
         }
+
+        private void specjalizacjeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Specjalizacja s = new Specjalizacja();
+            s.Show();
+        }
     }
 }
