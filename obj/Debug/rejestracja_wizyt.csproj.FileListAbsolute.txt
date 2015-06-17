@@ -1,0 +1,9 @@
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\bin\Debug\rejestracja_wizyt.exe.config
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\bin\Debug\rejestracja_wizyt.exe
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\bin\Debug\rejestracja_wizyt.pdb
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.csprojResolveAssemblyReference.cache
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.Form1.resources
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.Properties.Resources.resources
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.csproj.GenerateResource.Cache
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.exe
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.pdb
