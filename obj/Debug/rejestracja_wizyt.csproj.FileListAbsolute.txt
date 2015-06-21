@@ -7,3 +7,4 @@ D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.P
 D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.csproj.GenerateResource.Cache
 D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.exe
 D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.pdb
+D:\Projekty C#\rejestracja_wizyt\rejestracja_wizyt\obj\Debug\rejestracja_wizyt.Specjalizacja.resources
